@@ -61,4 +61,21 @@ class Stack
             cout << endl;
         } // return the value of the top node
     }
+};
+
+int main()
+{
+    Stack stack;
+
+    int choice = 0;
+    int value;
+
+    while (choice != 4)
+    {
+        cout << "1. Push\n";
+        cout << "2. push\n";
+        cout << "3. Push\n";
+        cout << "4. push\n";
+        cout << "Enter your choice"
+    }
 }
